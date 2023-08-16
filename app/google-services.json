@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449426056111",
+    "project_id": "daladala-5b799",
+    "storage_bucket": "daladala-5b799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449426056111:android:d22bfb8ca9d86058d4055a",
+        "android_client_info": {
+          "package_name": "com.example.daladala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449426056111-v8ofh0vjl3l15c9q2ltac6qmorbjaric.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYA6DHd0b7wt9USUjv-nHEhH3LSDtYFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449426056111-v8ofh0vjl3l15c9q2ltac6qmorbjaric.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
